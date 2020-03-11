@@ -1,0 +1,8 @@
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/workspace.xml
+/target/classes/flumeconfiguration.conf
+/target/classes/log4j2.xml
+/target/classes/syam/big/data/learning/kafka/examples/common/syam/big/data/learning/kafka/examples/AppConfigs.class
+/target/classes/syam/big/data/learning/kafka/examples/HelloProducer.class

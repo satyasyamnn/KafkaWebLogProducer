@@ -1,0 +1,1 @@
+kafka-console-consumer --zookeeper ip-10-0-1-20.ec2.internal:2181 --topic weblogs -from-beginning
